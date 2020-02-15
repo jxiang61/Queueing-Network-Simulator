@@ -1,7 +1,7 @@
 # Queueing-Network-Simulator
 This is a discrete event simulation (DES) program to simulate the queueing network.
 
-Authors: Junzhu Xiang, Haomin Lin
+Authors: Junzhu Xiang, Haomin Lin.
 Created: 10/20/2019
 Last modified: 11/11/2019
 Affiliation: Georgia Institute of Technology
