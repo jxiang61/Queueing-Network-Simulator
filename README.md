@@ -17,13 +17,13 @@ Installation:
 ------------
 (1) Run:
 ------------
-gcc -lm application.c engine.c initialize.c -std=c99 -o A6
+gcc -lm application.c engine.c initialize.c -std=c99 -o DES
 
 Note: The -std=c99 flag is required on some C compilers to allow variable declarations at arbitrary locations in a function.
 
 (2) Execution:
 ------------
-./A6 240 input_file.txt output_file.txt
+./DES 240 input_file.txt output_file.txt
 
 Note: 240 indicate the EndTime of this simulation, you can change it with a double type number you want, but it cannot be a negative number or 0. 
 And the EndTime must be larger than start time, in this program, the start time is 10. input file is the configuration file that stores the 
